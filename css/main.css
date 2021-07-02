@@ -1,11 +1,16 @@
+.fonts{
+    background: #f5f8fd;
+}
 .fonts ul li {
     list-style: none;
+    padding-bottom: 15px
 }
 .fonts ul li i{
     font-size: 25px;
 }
-.fonts ul li i a{
-    
+.fonts ul h4{
+
+    margin-top: 4px;
 }
 .hero-section ul li {
     list-style: none;
