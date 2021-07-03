@@ -1,5 +1,5 @@
-.fonts{
-    background: #f5f8fd;
+.fonts .fonts-bg{
+    
 }
 .fonts ul li {
     list-style: none;
@@ -7,6 +7,7 @@
 }
 .fonts ul li i{
     font-size: 25px;
+    padding-left: 12px;
 }
 .fonts ul h4{
 
@@ -14,4 +15,24 @@
 }
 .hero-section ul li {
     list-style: none;
+}
+.font-style{
+    margin-left: 225px;
+    margin-top: -250px;
+}
+.font-style ul li{
+    margin-left: -130px;
+}
+.font-style ul li i{
+    font-size: 13px;
+}
+.font-style ul li a{
+    font-size: 22px;
+}
+.font-style h3{
+    font-size: 20px;
+    padding-left: 120px;
+}
+.form-1{
+    padding-left: 85px;
 }
